@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "433536353680",
+    "firebase_url": "https://projectmanagementppkt.firebaseio.com",
+    "project_id": "projectmanagementppkt",
+    "storage_bucket": "projectmanagementppkt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433536353680:android:ebf1ac47058f4164d61f15",
+        "android_client_info": {
+          "package_name": "com.projectManagement.project_ppkt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433536353680-21kb5o666v2l1ej47nn9fvnu6ggkq3gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1DML5Cx1_rukignhEfXGVG3_odfbNApg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433536353680-21kb5o666v2l1ej47nn9fvnu6ggkq3gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
